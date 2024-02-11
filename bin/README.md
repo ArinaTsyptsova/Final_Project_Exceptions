@@ -3,5 +3,5 @@ A simple Java application that accepts user data (full name, date of birth, phon
 ## Usage  
 - Start the application by running the App class.  
 - Enter user data in the following format separated by spaces:  
-> Last name First name Surname Date of birth Phone number Gender'  
+> Last name First name Surname Date of birth Phone number Gender  
 - The data will be written to a file with a name corresponding to the user's last name.
